@@ -9,31 +9,32 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
-   version="1.1"
-   id="svg2621"
+   sodipodi:docname="locators.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="locators.svg">
+   id="svg2621"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
   <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.41515867"
-     inkscape:cx="150.14352"
-     inkscape:cy="502.37051"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     showguides="false"
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="67"
+     inkscape:window-height="713"
+     inkscape:window-width="1299"
      showgrid="false"
-     inkscape:window-width="956"
-     inkscape:window-height="1057"
-     inkscape:window-x="960"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="249.12579"
+     inkscape:cx="80.380296"
+     inkscape:zoom="1.174246"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <defs
      id="defs2615" />
   <metadata
@@ -44,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,12 +55,14 @@
      inkscape:label="Layer 1">
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 10.5,196.5 A 2.5,2.5 0 0 1 8,199 2.5,2.5 0 0 1 5.5,196.5 2.5,2.5 0 0 1 8,194 a 2.5,2.5 0 0 1 2.5,2.5 z"
-       id="path3168" />
+       d="M 10.5,199.5 A 2.5,2.5 0 0 1 8,202 2.5,2.5 0 0 1 5.5,199.5 2.5,2.5 0 0 1 8,197 a 2.5,2.5 0 0 1 2.5,2.5 z"
+       id="path3168"
+       inkscape:connector-curvature="0" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 115.5,196.5 a 2.5,2.5 0 0 1 -2.5,2.5 2.5,2.5 0 0 1 -2.5,-2.5 2.5,2.5 0 0 1 2.5,-2.5 2.5,2.5 0 0 1 2.5,2.5 z"
-       id="circle3170" />
+       d="m 115.5,199.5 a 2.5,2.5 0 0 1 -2.5,2.5 2.5,2.5 0 0 1 -2.5,-2.5 2.5,2.5 0 0 1 2.5,-2.5 2.5,2.5 0 0 1 2.5,2.5 z"
+       id="circle3170"
+       inkscape:connector-curvature="0" />
     <g
        gcodetools="Gcodetools orientation group"
        id="g3526">
@@ -93,15 +96,15 @@
            id="path3518" />
         <text
            gcodetools="Gcodetools orientation point text"
-           style="font-family:DejaVu Sans;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;fill:#000000;fill-opacity:1;stroke:none;font-size:10.000000px;"
-           x="110.0"
-           y="287.0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           x="110"
+           y="287"
            xml:space="preserve"
            id="text3522"><tspan
-             x="110.0"
-             y="287.0"
+             x="110"
+             y="287"
              sodipodi:role="line"
-             id="tspan3520">(100.0; 0.0; -8.0)</tspan></text>
+             id="tspan3520">(100.0; 0.0; -20.0)</tspan></text>
       </g>
     </g>
     <g
